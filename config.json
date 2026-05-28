@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uservalculate",
+        "uuid": 28782732,
+        "checksum": "hfw5pc"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
